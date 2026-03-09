@@ -1696,6 +1696,16 @@ sys
 sysadmin
 system
 system_web
+swagger
+swagger-ui
+swagger-ui/
+swagger-ui.html
+api-docs
+v3/api-docs
+v2/api-docs
+swagger.json
+openapi.
+swagger/index.html
 t
 t1
 table

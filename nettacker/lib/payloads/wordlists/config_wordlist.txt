@@ -51,7 +51,6 @@ local.settings.php
 config.default.php
 app/etc/env.php
 app/etc/config.php
-.env
 config/app.php
 config/database.php
 config/cache.php
@@ -115,14 +114,11 @@ hash_99.php
 custom_987.php
 hidden_333.php
 secure_app987.php
-config.xml
-settings.ini
 server.conf
 database.cfg
 environment.json
 config.ini
 settings.ini
-database.ini
 app.ini
 server.ini
 system.ini
@@ -220,3 +216,8 @@ sshd_config
 .gitignore
 .npmrc
 .yarnrc
+swagger.json
+openapi.json
+api-docs
+v3/api-docs
+v2/api-docs
