@@ -216,8 +216,3 @@ sshd_config
 .gitignore
 .npmrc
 .yarnrc
-swagger.json
-openapi.json
-api-docs
-v3/api-docs
-v2/api-docs
